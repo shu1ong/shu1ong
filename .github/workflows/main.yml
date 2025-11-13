@@ -20,7 +20,7 @@ jobs:
 
           # Options
           template: classic
-          base: header, activity, community, repositories, metadata
+          base: header,community, repositories, metadata
           config_timezone: Asia/Shanghai
           
           plugin_isocalendar: yes
